@@ -1,0 +1,29 @@
+#title {
+	text-align: center;
+	color: red;
+	background: green;
+	margin: 5;
+}
+
+#my-memes {
+	border-width: 2px;
+	border-color: blue;
+	border-style: double;
+}
+
+.meme-elem{
+	padding: 10px;
+	color: blue;
+	background: green;
+	margin: 5;
+}
+
+.meme-elem:hover{
+	cursor:pointer;
+	color:white;
+	background-color: black;
+}
+
+#body{
+
+}
